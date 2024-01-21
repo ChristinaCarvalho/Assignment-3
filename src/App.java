@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
-public class App {
-    static void weight(){
-
-    }
+public class App {    
     public static void main(String[] args) throws Exception {
         int run = 1;
         do{
